@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
-import 'package:sample_project_with_bloc/presentation/color_manager.dart';
-import 'package:sample_project_with_bloc/presentation/font_manager.dart';
-import 'package:sample_project_with_bloc/presentation/styles_manager.dart';
-import 'package:sample_project_with_bloc/presentation/values_manager.dart';
+import 'package:sample_project_with_bloc/presentation/resources/color_manager.dart';
+import 'package:sample_project_with_bloc/presentation/resources/font_manager.dart';
+import 'package:sample_project_with_bloc/presentation/resources/styles_manager.dart';
+import 'package:sample_project_with_bloc/presentation/resources/values_manager.dart';
 
 ThemeData getApplicationTheme() {
   return ThemeData(

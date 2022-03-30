@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:sample_project_with_bloc/presentation/theme_manager.dart';
+import 'package:sample_project_with_bloc/presentation/resources/theme_manager.dart';
 
 class MyApp extends StatefulWidget {
 
