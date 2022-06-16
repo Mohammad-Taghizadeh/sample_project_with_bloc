@@ -27,7 +27,7 @@ class CustomerResponse {
 @JsonSerializable()
 class ContactResponse {
   @JsonKey(name: "email")
-  int? email;
+  String? email;
   @JsonKey(name: "phone")
   String? phone;
   @JsonKey(name: "link")
