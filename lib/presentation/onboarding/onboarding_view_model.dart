@@ -95,7 +95,7 @@ abstract class OnBoardingViewModelOutputs {
 }
 
 class SliderViewObject {
-  SliderObject sliderObject;
+    SliderObject sliderObject;
   int numOfSlides;
   int currentIndex;
 
