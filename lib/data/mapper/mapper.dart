@@ -2,7 +2,7 @@
 
 import 'package:sample_project_with_bloc/app/extensions.dart';
 import 'package:sample_project_with_bloc/data/responses/responses.dart';
-import 'package:sample_project_with_bloc/domain/model.dart';
+import 'package:sample_project_with_bloc/domain/model/model.dart';
 
 String EMPTY = "";
 int ZERO = 0;

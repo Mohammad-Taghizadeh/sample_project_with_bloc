@@ -1,6 +1,6 @@
 import 'dart:async';
 
-import 'package:sample_project_with_bloc/domain/model.dart';
+import 'package:sample_project_with_bloc/domain/model/model.dart';
 import 'package:sample_project_with_bloc/presentation/base/base_view_model.dart';
 import 'package:sample_project_with_bloc/presentation/resources/assets_manager.dart';
 import 'package:sample_project_with_bloc/presentation/resources/strings_manager.dart';

@@ -5,8 +5,8 @@ import 'package:sample_project_with_bloc/data/network/error_handler.dart';
 import 'package:sample_project_with_bloc/data/network/failure.dart';
 import 'package:sample_project_with_bloc/data/network/network_info.dart';
 import 'package:sample_project_with_bloc/data/request/request.dart';
-import 'package:sample_project_with_bloc/domain/model.dart';
-import 'package:sample_project_with_bloc/domain/repository.dart';
+import 'package:sample_project_with_bloc/domain/model/model.dart';
+import 'package:sample_project_with_bloc/domain/repository/repository.dart';
 
 class RepositoryImpl extends Repository {
   RemoteDataSource _remoteDataSource;
