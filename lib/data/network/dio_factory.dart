@@ -3,7 +3,6 @@ import 'package:flutter/foundation.dart';
 import 'package:pretty_dio_logger/pretty_dio_logger.dart';
 import 'package:sample_project_with_bloc/app/app_pref.dart';
 import 'package:sample_project_with_bloc/app/constant.dart';
-import 'package:sample_project_with_bloc/domain/model/model.dart';
 
 // ignore: constant_identifier_names
 const String APPLICATION_JSON = "application/json";
